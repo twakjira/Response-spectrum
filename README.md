@@ -1,4 +1,4 @@
 # Response-spectrum
 
-Response history
-Reponse spectrum for kobe earthquake
+Response history using central difference method
+Reponse spectrum for kobe earthquake 
